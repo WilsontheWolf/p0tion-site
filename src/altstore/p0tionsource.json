@@ -13,7 +13,7 @@
         "versionDescription": "Works on iOS 12-14.3, Arm64e",
         "downloadURL": "fill_in_later",
         "localizedDescription": "Supporting iOS Versions: 12-14.3 on Arm64e (arm64 eta s0n).\np0tion is the first ever semi-untethered jailbreak working on all devices through iOS 12 - 14.3! It comes with Sileo for a more modern jailbreak feel and will kick off iOS 14's jailbreaking era!",
-        "iconURL": "fill_in_later",
+        "iconURL": "https://github.com/p0tion-Team/p0tion-site/blob/main/src/img/p0tion2.png",
         "tintColor": "D287F4",
         "size": 26463301,
         "beta": true,
@@ -30,7 +30,7 @@
         "identifier": "p0tion-beta-start",
         "caption": "Supports iOS 12-14.3",
         "tintColor": "D287F4",
-        "imageURL": "fill_in_later",
+        "imageURL": "https://github.com/p0tion-Team/p0tion-site/blob/main/src/img/p0tion2.png",
         "appID": "fill_in_later",
         "date": "2021-2-19",
         "notify": true

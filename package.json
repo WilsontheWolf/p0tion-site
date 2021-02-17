@@ -1,0 +1,26 @@
+{
+  "name": "p0tion-website",
+  "version": "1.0.0",
+  "description": "Website for the (upcoming) p0tion jailbreak",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.32.7"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html --out-dir docs",
+    "build": "parcel build src/index.html --out-dir docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roembol2000/p0tion-website.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/roembol2000/p0tion-website/issues"
+  },
+  "homepage": "https://github.com/roembol2000/p0tion-website#readme"
+}

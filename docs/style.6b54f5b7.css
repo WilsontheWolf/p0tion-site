@@ -45,6 +45,13 @@ header .menu ul li {
   font-size: 1.2rem;
 }
 
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
 main {
   transform: translateY(5rem);
 }

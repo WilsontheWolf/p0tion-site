@@ -50,6 +50,11 @@ section {
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  padding: 0 5rem;
+}
+section h2 {
+  font-size: 2rem;
+  font-weight: 700;
 }
 
 main {
@@ -68,6 +73,7 @@ main section.presentation .content-container {
 }
 main section.presentation .content-container h1 {
   font-size: 5rem;
+  font-weight: 700;
   margin: 2rem;
 }
 main section.presentation .content-container .buttons .button {

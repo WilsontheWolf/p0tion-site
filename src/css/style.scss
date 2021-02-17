@@ -65,6 +65,13 @@ header {
   }
 }
 
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
 main {
   transform: translateY(5rem);
 

@@ -1,7 +1,7 @@
 {
     "name": "p0tion",
     "identifier": "com.p0tion-Team.p0tion",
-    "sourceURL": "fill_in_later",
+    "sourceURL": "https://github.com/p0tion-Team/p0tion-site/edit/main/src/altstore/p0tionsource.json",
     "apps": [
       {
         "name": "p0tion",
@@ -10,17 +10,15 @@
         "subtitle": "First semi-untethered iOS 14 jailbreak.",
         "version": "0.0.1",
         "versionDate": "2021-2-19",
-        "versionDescription": "Works on iOS 12-14.3, Arm64e",
-        "downloadURL": "fill_in_later",
-        "localizedDescription": "Supporting iOS Versions: 12-14.3 on Arm64e (arm64 eta s0n).\np0tion is the first ever semi-untethered jailbreak working on all devices through iOS 12 - 14.3! It comes with Sileo for a more modern jailbreak feel and will kick off iOS 14's jailbreaking era!",
+        "versionDescription": "Works on iOS 12-14.3, arm64e",
+        "downloadURL": "https://github.com/p0tion-Team/p0tion-site/raw/main/src/altstore/p0tion.ipa",
+        "localizedDescription": "Supporting iOS Versions: 12-14.3 on arm64e (arm64 eta s0n).\np0tion is the first ever semi-untethered jailbreak working on all devices through iOS 12 - 14.3! It comes with Sileo for a more modern jailbreak feel and will kick off iOS 14's jailbreaking era!",
         "iconURL": "https://github.com/p0tion-Team/p0tion-site/blob/main/src/img/p0tion2.png",
         "tintColor": "D287F4",
         "size": 26463301,
         "beta": true,
         "screenshotURLs": [
-          "fill_in_later",
-          "fill_in_later",
-          "fill_in_later"
+          "https://github.com/p0tion-Team/p0tion-site/blob/main/src/img/p0tion2.png",
         ]
       }
     ],
@@ -40,7 +38,7 @@
         "identifier": "welcome-to-p0tion-repo",
         "caption": "p0tion is now on AltStore!",
         "tintColor": "D287F4",
-        "url": "fill_in_later",
+        "url": "https://github.com/p0tion-Team/p0tion-site/edit/main/src/altstore/p0tionsource.json",
         "date": "2021-2-19T12:59:00-07:00",
         "notify": false
       }

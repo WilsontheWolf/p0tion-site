@@ -7,7 +7,7 @@ Website for the (upcoming) p0tion jailbreak
 #### Note: If you are on a Windows machine, make sure you have git installed.
 
 Clone the repo to your local machine\
-`git clone https://github.com/roembol2000/p0tion-website`
+`git clone https://github.com/p0tion-Team/p0tion-site`
 
 Install the node modules\
 `npm install`

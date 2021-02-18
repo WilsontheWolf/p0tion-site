@@ -96,7 +96,7 @@ section {
 main {
   transform: translateY(5rem);
 
-  section.presentation {
+  section#presentation {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -130,24 +130,4 @@ main {
 
 html {
   scroll-behavior: smooth;
-}
-
-#section1 {
-  height: 600px;
-  background-color: ;
-}
-
-#section2 {
-  height: 600px;
-  background-color: ;
-}
-
-#section3 {
-  height: 600px;
-  background-color: ;
-}
-
-#section4 {
-  height: 600px;
-  background-color: ;
 }

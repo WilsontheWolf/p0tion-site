@@ -127,3 +127,17 @@ main {
 .button:hover {
   background-color: $nord8;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+#section1 {
+  height: 600px;
+  background-color: grey;
+}
+
+#section2 {
+  height: 600px;
+  background-color: grey;
+}

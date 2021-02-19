@@ -62,6 +62,7 @@ header {
       li {
         margin-left: 1rem;
         font-size: 1.2rem;
+        cursor: pointer;
       }
     }
   }
@@ -96,7 +97,7 @@ section {
 main {
   transform: translateY(5rem);
 
-  section#presentation {
+  section.presentation {
     display: flex;
     align-items: center;
     justify-content: center;

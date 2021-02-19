@@ -2,4 +2,7 @@
 
 Website for the (upcoming) p0tion jailbreak
 
-Netlify removes git build. Just commit a change when done.
+## Get started developing
+Clone the repository with `git clone https://github.com/p0tion-Team/p0tion-site`\
+Install dependencies use `npm install`\
+Run a dev server using `npm run dev`
